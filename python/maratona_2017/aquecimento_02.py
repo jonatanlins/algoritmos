@@ -1,5 +1,5 @@
-[players, rounds, *_] = [ int(i) for i in input().split(' ') if i != '' ]
-points = [ int(i) for i in input().split(' ') if i != '' ]
+players, rounds = [ int(i) for i in input().split() ]
+points = [ int(i) for i in input().split() ]
 
 result = [0] * players
 
