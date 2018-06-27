@@ -1,5 +1,3 @@
-from functools import reduce
-
 # mínimo múltiplo comum (least commom multiple)
 def lcm(numbers):
   a = numbers[0]
@@ -9,10 +7,6 @@ def lcm(numbers):
 # calculo de múltiplos de um número
 def multiples(number, limit):
   return list(range(number, limit + 1, number))
-
-# calculo de divisores de um número
-def divisors(number):
-  return [ x for x in range(1, number + 1) if (number%x==0) ]
 
 # calcula quando será a primeira interação entre as populações
 def firstIteration(lifeCycle, iterations):
