@@ -14,21 +14,22 @@ def multiples(number, limit):
 def divisors(number):
   return [ x for x in range(1, number + 1) if (number%x==0) ]
 
+# calcula quando será a primeira interação entre as populações
 def firstIteration(lifeCycle, iterations):
   for i in iterations:
     if i % lifeCycle == 0:
       return i
+  return None
 
-
+# leitura de dados
 populations, limit = [ int(i) for i in input().split() ]
 lifeCycles = [ int(i) for i in input().split() ]
 
 iterations = multiples(lcm(lifeCycles), limit)
-possibilities = [ set(divisors(i)) for i in iterations ]
-possibilities = reduce(lambda a, b: a | b, possibilities)
-possibilities = [ (i, firstIteration(i, iterations)) for i in possibilities ]
+possibilities = [ (i, firstIteration(i, iterations)) for i in range(1, limit + 1) ]
+possibilities = [ (a, b) for (a, b) in possibilities if b is not None ]
 resolution = max([ i for (_, i) in possibilities ])
-resolution = [ a for (a, b) in possibilities if b == resolution ][0]
+resolution = min([ a for (a, b) in possibilities if b == resolution ])
 
 
 print(resolution)
