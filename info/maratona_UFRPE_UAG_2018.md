@@ -7,7 +7,7 @@ Soluções das questões do I Circuito de Programação UFRPE UAG (unidade acad�
 ### Primeira Fase
 
 - Loteria Tailandesa
-- 🎈 Imposto de Renda: [Python](../python/1051.py)
+- 🎈 Imposto de Renda: [Python](../python/1051.py), [C](../c/1051.c)
 - 🎈 Salvando O Universo Novamente
 - Fila de Supermercado
 - 🎈 Crise de Energia: [Python](../python/1031.py)
