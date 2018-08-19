@@ -1,4 +1,8 @@
-## resolução em: https://goo.gl/guaacw
+# Despojados
+# Problema 2661 do URI Judge Online
+# https://www.urionlinejudge.com.br/judge/pt/problems/view/2661
+
+## resolução detalhada em: https://goo.gl/guaacw
 
 from math import sqrt
 

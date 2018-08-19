@@ -17,5 +17,4 @@ for i in range(inputs):
   
   spendings = [ spendings[i] for i in spendings ]
 
-
   print('R$ {:.2f}'.format(sum(spendings)))

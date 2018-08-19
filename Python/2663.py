@@ -1,3 +1,7 @@
+# Fase
+# Problema 2663 do URI Judge Online
+# https://www.urionlinejudge.com.br/judge/pt/problems/view/2663
+
 from collections import Counter
 
 # leitura de dados

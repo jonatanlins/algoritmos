@@ -1,3 +1,7 @@
+# Fatorial
+# Problema 1936 do URI Judge Online
+# https://www.urionlinejudge.com.br/judge/pt/problems/view/1936
+
 import math
 
 inputNumber = int(input())
