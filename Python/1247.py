@@ -1,5 +1,5 @@
 # Guarda Costeira
-# Problema 1247 do URI Judge Online
+# Problema 1247 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1247
 
 import math

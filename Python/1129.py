@@ -1,5 +1,5 @@
 # Leitura Ótica
-# Problema 1129 do URI Judge Online
+# Problema 1129 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1129
 
 while True:

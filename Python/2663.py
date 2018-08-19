@@ -1,5 +1,5 @@
 # Fase
-# Problema 2663 do URI Judge Online
+# Problema 2663 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/2663
 
 from collections import Counter

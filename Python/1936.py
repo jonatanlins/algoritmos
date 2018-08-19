@@ -1,5 +1,5 @@
 # Fatorial
-# Problema 1936 do URI Judge Online
+# Problema 1936 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1936
 
 import math

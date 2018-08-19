@@ -1,5 +1,5 @@
 # Cifra de César
-# Problema 1253 do URI Judge Online
+# Problema 1253 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1253
 
 inputs = int(input())

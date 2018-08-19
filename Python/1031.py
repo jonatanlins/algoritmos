@@ -1,5 +1,5 @@
 # Crise de Energia
-# Problema 1031 do URI Judge Online
+# Problema 1031 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1031
 
 while True:

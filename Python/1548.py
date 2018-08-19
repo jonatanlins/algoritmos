@@ -1,5 +1,5 @@
 # Fila do Recreio
-# Problema 1548 do URI Judge Online
+# Problema 1548 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1548
 
 cases = int(input())

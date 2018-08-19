@@ -1,5 +1,5 @@
 # Imposto de Renda
-# Problema 1051 do URI Judge Online
+# Problema 1051 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/1051
 
 value = float(input())

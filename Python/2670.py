@@ -1,5 +1,5 @@
 # Máquina de Café
-# Problema 2670 do URI Judge Online
+# Problema 2670 do URI Online Judge
 # https://www.urionlinejudge.com.br/judge/pt/problems/view/2670
 
 a1, a2, a3 = [ int(input()) for i in range(3) ]
