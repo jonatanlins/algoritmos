@@ -6,5 +6,5 @@ Todas as soluções foram testadas e aceitas no [URI Online Judge](https://www.u
 
 ## Competições
 
-- [Maratona de Programação da SBC 2017](./Info/Maratona_2017.md)
-- [Circuito de Programação UFRPE UAG 2018](./Info/Maratona_UFRPE_UAG_2018.md)
+- [Maratona de Programação da SBC 2017](./info/maratona_2017.md)
+- [Circuito de Programação UFRPE UAG 2018](./info/maratona_UFRPE_UAG_2018.md)
