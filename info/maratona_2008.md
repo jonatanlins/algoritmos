@@ -18,7 +18,7 @@ Soluções das questões da maratona de programação de 2008 da Sociedade Brasi
   - O Salão do Clube
   - 🎈 Dama: [Python](../python/1087.py)
   - Bolhas e Baldes
-  - Loop Musical
+  - 🎈 Loop Musical: [Python](../python/1089.py)
   - Set
   - Divisão da Nlogônia
   - Maior Subseqüência Crescente
