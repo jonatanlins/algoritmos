@@ -1,4 +1,4 @@
-// Escreva uma função recursiva chama "potencia", que aceite dois parâmetros
+// Escreva uma função recursiva chamada "potencia", que aceite dois parâmetros
 // inteiros positivos i e j. A função retorna i elevado à potência j.
 // Por exemplo: potencia(2, 3) = 8.
 // Use a seguinte definição: i^j = i^(j - 1) * i
