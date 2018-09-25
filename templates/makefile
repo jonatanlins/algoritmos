@@ -2,7 +2,7 @@ CC = gcc
 EXEC_NAME = exec
 
 execute: $(EXEC_NAME)
-	./$(EXEC_NAME)
+	clear; ./$(EXEC_NAME)
 
 $(EXEC_NAME): script.o
 	$(CC) script.c -o $(EXEC_NAME)
