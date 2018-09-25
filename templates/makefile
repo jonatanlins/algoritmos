@@ -1,10 +1,10 @@
 CC = gcc
 EXEC_NAME = exec
 
-execute: $(EXEC_NAME)
-	clear; ./$(EXEC_NAME)
+execute: compile
+	./$(EXEC_NAME)
 
-$(EXEC_NAME): script.o
+compile: script.o
 	$(CC) script.c -o $(EXEC_NAME)
 
 script.o: script.c
