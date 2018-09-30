@@ -1,5 +1,5 @@
 CC = gcc
-EXEC_NAME = exec
+EXEC_NAME = script
 
 execute: compile
 	./$(EXEC_NAME)

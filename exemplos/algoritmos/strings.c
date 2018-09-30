@@ -3,7 +3,7 @@
 
 int stringLength (const char *s);
 char *stringConcat (char *dest, const char *src);
-char * stringCopy (char *dest, const char *src);
+char *stringCopy (char *dest, const char *src);
 
 
 int main () {
@@ -48,7 +48,7 @@ char *stringConcat (char *dest, const char *src) {
 }
 
 
-char * stringCopy (char *dest, const char *src) {
+char *stringCopy (char *dest, const char *src) {
   int i;
   
   for (i = 0; src[i] != '\0'; i++) {
