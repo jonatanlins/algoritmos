@@ -2,14 +2,24 @@
 #include <stdlib.h>
 
 int fibonacci (int n);
+int recursiveFibonacci (int n);
 
-void main () {
+
+int main () {
+  printf("Sequência usando o fibonacci sem recursão\n");
 	for (int i = 0; i < 20; i++) {
 		printf("%d ", fibonacci(i));
 	}
+  
+  printf("\n\nSequência usando o fibonacci recursivo\n");
+	for (int i = 0; i < 20; i++) {
+		printf("%d ", recursiveFibonacci(i));
+	}
 
 	printf("\n");
+  return 0;
 }
+
 
 int fibonacci (int n) {
 	int sequence[n + 1];
@@ -21,4 +31,15 @@ int fibonacci (int n) {
 	}
 
 	return sequence[n];
+}
+
+
+int recursiveFibonacci (int n) {
+  if (n == 0) {
+    return 0;
+  } else if (n == 1) {
+    return 1;
+  } else {
+    return recursiveFibonacci(n - 1) + recursiveFibonacci(n - 2);
+  }
 }
