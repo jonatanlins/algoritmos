@@ -11,4 +11,4 @@ script.o: script.c
 	$(CC) -c script.c
 
 clean:
-	rm -r __pycache__ .pytest_cache *.o $(EXEC_NAME) input-* output-*
+	rm -r __pycache__ .pytest_cache *.o *.out $(EXEC_NAME) input-* output-* tempCodeRunnerFile
