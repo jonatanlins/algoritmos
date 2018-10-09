@@ -2,11 +2,11 @@
 
 ## Conteúdo do repositório
 
-### [Desafios resolvidos de programação :balloon:](desafios.md)
+### [Desafios](desafios.md) :balloon:
 
-### [Desafios de maratonas de programação :computer:](maratonas.md)
+### [Maratonas](maratonas.md) :computer:
 
-### [Exemplos e trechos de códigos úteis :hankey:](snippets/readme.md)
+### [Trechos de Código](snippets/readme.md) :hankey:
 
-### [Exercícios diversos de computação :memo:](exercicios/LP1_2018.2/readme.md)
+### [Exercícios](exercicios/LP1_2018.2/readme.md) :memo:
 
