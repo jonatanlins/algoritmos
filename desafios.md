@@ -42,7 +42,7 @@
 | 1048 | [Aumento de Salário][1048]              | [🐍](desafios/1048.py) | | | | | |
 | 1049 | [Animal][1049]                          | [🐍](desafios/1049.py) | | | | | |
 | 1050 | [DDD][1050]                             | [🐍](desafios/1050.py) | | | | | |
-| 1051 | [Imposto de Renda][1051]                | [🐍](desafios/1051.py) | [👴🏼](desafios/1051.c) | | | | |
+| 1051 | [Imposto de Renda][1051]                | [🐍](desafios/1051.py) | [👴](desafios/1051.c) | | | | |
 | 1052 | [Mês][1052]                             | [🐍](desafios/1052.py) | | | | | |
 | 1059 | [Números Pares][1059]                   | [🐍](desafios/1059.py) | | | | | |
 | 1060 | [Números Positivos][1060]               | [🐍](desafios/1060.py) | | | | | |
